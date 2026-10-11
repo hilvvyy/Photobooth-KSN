@@ -1,0 +1,6 @@
+{
+  "name": "Photobooth Digital & Chroma Key Studio",
+  "description": "Aplikasi Photobooth digital interaktif dengan live webcam, hitung mundur, overlay bingkai kustom, dan deteksi chroma key transparan bertenaga Canvas API.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
